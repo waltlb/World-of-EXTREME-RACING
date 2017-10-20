@@ -1,0 +1,47 @@
+C:\Users\1620500\AppData\Local\Temporary Projects\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\1620500\AppData\Local\Temporary Projects\FinalProject\obj\Debug\FinalProject.Instructions.resources
+C:\Users\1620500\AppData\Local\Temporary Projects\FinalProject\obj\Debug\FinalProject.Resources.resources
+C:\Users\1620500\AppData\Local\Temporary Projects\FinalProject\obj\Debug\FinalProject.StartPage.resources
+C:\Users\1620500\AppData\Local\Temporary Projects\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Instructions.resources
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.StartPage.resources
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Track1.resources
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+C:\Users\1620500\Documents\Visual Studio 2012\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+H:\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.Instructions.resources
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.StartPage.resources
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.Track1.resources
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+H:\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+H:\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+H:\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+D:\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.Instructions.resources
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.Resources.resources
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.StartPage.resources
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.Track1.resources
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.vbproj.GenerateResource.Cache
+D:\FinalProject\FinalProject\obj\Debug\FinalProject.HighScores.resources
+H:\FinalProject\FinalProject\obj\Debug\FinalProject.HighScores.resources
+C:\Users\rocke_000\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\rocke_000\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\rocke_000\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.xml
+C:\Users\rocke_000\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
